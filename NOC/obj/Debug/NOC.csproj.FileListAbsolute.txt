@@ -1,0 +1,135 @@
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\NOC.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\NOC.exe
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\NOC.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Seyi.Login.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Seyi.MainUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Seyi.ModalDialogs.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Seyi.Login.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Seyi.MainUI.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\Seyi.ModalDialogs.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.FormLogin.resources
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.FormChoose.resources
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.FormPassword.resources
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.exe
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\NOC\obj\Debug\NOC.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Seyi.MainUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\XanderUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Seyi.MainUI.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormLogin.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormChoose.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormPassword.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.exe.config
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.exe
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\FontAwesome.Sharp.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\FontAwesome.Sharp.Pro.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Seyi.MainUI.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Seyi.MainUI.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csprojAssemblyReference.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormLogin.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormChoose.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormPassword.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.Properties.Resources.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.GenerateResource.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.CoreCompileInputs.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.CopyComplete
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.exe
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\NOC.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\FontAwesome.Sharp.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Seyi.MainUI.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\Seyi.MainUI.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.AssemblyReference.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormLogin.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormChoose.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.FormPassword.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.Properties.Resources.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.GenerateResource.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.CoreCompileInputs.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.csproj.CopyComplete
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\NOC\obj\Debug\NOC.pdb

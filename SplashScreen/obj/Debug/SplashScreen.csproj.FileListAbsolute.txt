@@ -1,0 +1,66 @@
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\NOC.exe
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Seyi.Login.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Seyi.MainUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Seyi.ModalDialogs.dll
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\NOC.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\NOC.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Seyi.Login.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Seyi.MainUI.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\bin\Debug\Seyi.ModalDialogs.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\Seyi\Documents\PORTFOLIO\NOC\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\NOC.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Seyi.MainUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Seyi.ModalDialogs.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\NOC.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\NOC.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Seyi.MainUI.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\SplashScreen.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\SplashScreen.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\SplashScreen.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\FontAwesome.Sharp.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\NOC.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Seyi.MainUI.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Seyi.ModalDialogs.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\NOC.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\NOC.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\bin\Debug\Seyi.MainUI.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.AssemblyReference.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.csproj.CopyComplete
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\SplashScreen\obj\Debug\SplashScreen.pdb

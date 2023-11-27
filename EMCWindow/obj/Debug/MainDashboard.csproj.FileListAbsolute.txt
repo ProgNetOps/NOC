@@ -1,0 +1,48 @@
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\Seyi.MainUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\Seyi.MainUI.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.Form1.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.UC_EMC.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csprojAssemblyReference.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.Form1.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.Properties.Resources.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.UC_EMC.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.GenerateResource.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.CoreCompileInputs.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.exe
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.exe.config
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.exe
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\FontAwesome.Sharp.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\FontAwesome.Sharp.Pro.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\Seyi.MainUI.dll
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\Seyi.MainUI.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.CopyComplete
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\EMCWindow.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\FontAwesome.Sharp.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\Seyi.MainUI.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\bin\Debug\Seyi.MainUI.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.AssemblyReference.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.Form1.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.Properties.Resources.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.UC_EMC.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.GenerateResource.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.CoreCompileInputs.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\MainDashboard.csproj.CopyComplete
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.pdb

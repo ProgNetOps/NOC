@@ -1,0 +1,7 @@
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\Dashboard.Form1.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\EMCWindow\obj\Debug\EMCWindow.pdb

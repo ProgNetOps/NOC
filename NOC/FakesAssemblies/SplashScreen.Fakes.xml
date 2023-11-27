@@ -1,0 +1,1400 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SplashScreen.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.QualityTools.Testing.Fakes.Delegates.SplashScreenDelegates">
+            <summary>Contains custom delegates used for the stubs and shims of SplashScreen</summary>
+        </member>
+        <member name="T:SplashScreen.Fakes.ShimSplashScreen">
+            <summary>Shim type of SplashScreen.SplashScreen</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.#ctor(SplashScreen.SplashScreen)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:SplashScreen.Fakes.ShimSplashScreen.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.AllInstances.DisposeBoolean">
+            <summary>Sets the Shim of SplashScreen.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.AllInstances.InitializeComponent">
+            <summary>Sets the Shim of SplashScreen.InitializeComponent()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.AllInstances.SplashScreen_LoadObjectEventArgs">
+            <summary>Sets the Shim of SplashScreen.SplashScreen_Load(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.ComponentModel.ISynchronizeInvoke)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.Windows.Forms.IBindableComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.Windows.Forms.IContainerControl)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.Windows.Forms.IDropTarget)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.Windows.Forms.IWin32Window)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.ShimSplashScreen.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.Constructor">
+            <summary>Sets the Shim of SplashScreen.SplashScreen()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.DisposeBoolean">
+            <summary>Sets the Shim of SplashScreen.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.InitializeComponent">
+            <summary>Sets the Shim of SplashScreen.InitializeComponent()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.ShimSplashScreen.SplashScreen_LoadObjectEventArgs">
+            <summary>Sets the Shim of SplashScreen.SplashScreen_Load(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="T:SplashScreen.Fakes.StubSplashScreen">
+            <summary>Stub type of SplashScreen.SplashScreen</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AdjustFormScrollbars(System.Boolean)">
+            <summary>Sets the Stub of Form.AdjustFormScrollbars(Boolean displayScrollbars)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AdjustFormScrollbarsBoolean">
+            <summary>Sets the stub of Form.AdjustFormScrollbars(Boolean displayScrollbars)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.AllowDrop">
+            <summary>Sets the stub of Control.get_AllowDrop()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AllowDropGet">
+            <summary>Sets the stub of Control.get_AllowDrop()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AllowDropSetBoolean">
+            <summary>Sets the stub of Control.set_AllowDrop(Boolean value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Anchor">
+            <summary>Sets the stub of Control.get_Anchor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AnchorGet">
+            <summary>Sets the stub of Control.get_Anchor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AnchorSetAnchorStyles">
+            <summary>Sets the stub of Control.set_Anchor(AnchorStyles value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAllowDrop">
+            <summary>Attaches delegates to emulate StubSplashScreen.AllowDrop as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAnchor">
+            <summary>Attaches delegates to emulate StubSplashScreen.Anchor as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAutoScaleBaseSize">
+            <summary>Attaches delegates to emulate StubSplashScreen.AutoScaleBaseSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAutoScroll">
+            <summary>Attaches delegates to emulate StubSplashScreen.AutoScroll as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAutoScrollOffset">
+            <summary>Attaches delegates to emulate StubSplashScreen.AutoScrollOffset as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAutoSize">
+            <summary>Attaches delegates to emulate StubSplashScreen.AutoSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToAutoValidate">
+            <summary>Attaches delegates to emulate StubSplashScreen.AutoValidate as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToBackColor">
+            <summary>Attaches delegates to emulate StubSplashScreen.BackColor as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToBackgroundImage">
+            <summary>Attaches delegates to emulate StubSplashScreen.BackgroundImage as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToBackgroundImageLayout">
+            <summary>Attaches delegates to emulate StubSplashScreen.BackgroundImageLayout as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToBindingContext">
+            <summary>Attaches delegates to emulate StubSplashScreen.BindingContext as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToContextMenu">
+            <summary>Attaches delegates to emulate StubSplashScreen.ContextMenu as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToContextMenuStrip">
+            <summary>Attaches delegates to emulate StubSplashScreen.ContextMenuStrip as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToCursor">
+            <summary>Attaches delegates to emulate StubSplashScreen.Cursor as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToDock">
+            <summary>Attaches delegates to emulate StubSplashScreen.Dock as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToDoubleBuffered">
+            <summary>Attaches delegates to emulate StubSplashScreen.DoubleBuffered as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToFont">
+            <summary>Attaches delegates to emulate StubSplashScreen.Font as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToForeColor">
+            <summary>Attaches delegates to emulate StubSplashScreen.ForeColor as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToImeModeBase">
+            <summary>Attaches delegates to emulate StubSplashScreen.ImeModeBase as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToMaximumSize">
+            <summary>Attaches delegates to emulate StubSplashScreen.MaximumSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToMinimumSize">
+            <summary>Attaches delegates to emulate StubSplashScreen.MinimumSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToRightToLeft">
+            <summary>Attaches delegates to emulate StubSplashScreen.RightToLeft as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToRightToLeftLayout">
+            <summary>Attaches delegates to emulate StubSplashScreen.RightToLeftLayout as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToSite">
+            <summary>Attaches delegates to emulate StubSplashScreen.Site as a property with a backing field.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.AttachBackingFieldToText">
+            <summary>Attaches delegates to emulate StubSplashScreen.Text as a property with a backing field.</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.AutoScaleBaseSize">
+            <summary>Sets the stub of Form.get_AutoScaleBaseSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoScaleBaseSizeGet">
+            <summary>Sets the stub of Form.get_AutoScaleBaseSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoScaleBaseSizeSetSize">
+            <summary>Sets the stub of Form.set_AutoScaleBaseSize(Size value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.AutoScroll">
+            <summary>Sets the stub of Form.get_AutoScroll()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoScrollGet">
+            <summary>Sets the stub of Form.get_AutoScroll()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.AutoScrollOffset">
+            <summary>Sets the stub of Control.get_AutoScrollOffset()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoScrollOffsetGet">
+            <summary>Sets the stub of Control.get_AutoScrollOffset()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoScrollOffsetSetPoint">
+            <summary>Sets the stub of Control.set_AutoScrollOffset(Point value)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoScrollSetBoolean">
+            <summary>Sets the stub of Form.set_AutoScroll(Boolean value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.AutoSize">
+            <summary>Sets the stub of Form.get_AutoSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoSizeGet">
+            <summary>Sets the stub of Form.get_AutoSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoSizeSetBoolean">
+            <summary>Sets the stub of Form.set_AutoSize(Boolean value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.AutoValidate">
+            <summary>Sets the stub of Form.get_AutoValidate()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoValidateGet">
+            <summary>Sets the stub of Form.get_AutoValidate()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.AutoValidateSetAutoValidate">
+            <summary>Sets the stub of Form.set_AutoValidate(AutoValidate value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.BackColor">
+            <summary>Sets the stub of Form.get_BackColor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BackColorGet">
+            <summary>Sets the stub of Form.get_BackColor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BackColorSetColor">
+            <summary>Sets the stub of Form.set_BackColor(Color value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.BackgroundImage">
+            <summary>Sets the stub of Control.get_BackgroundImage()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BackgroundImageGet">
+            <summary>Sets the stub of Control.get_BackgroundImage()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.BackgroundImageLayout">
+            <summary>Sets the stub of Control.get_BackgroundImageLayout()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BackgroundImageLayoutGet">
+            <summary>Sets the stub of Control.get_BackgroundImageLayout()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BackgroundImageLayoutSetImageLayout">
+            <summary>Sets the stub of Control.set_BackgroundImageLayout(ImageLayout value)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BackgroundImageSetImage">
+            <summary>Sets the stub of Control.set_BackgroundImage(Image value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.BindingContext">
+            <summary>Sets the stub of ContainerControl.get_BindingContext()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BindingContextGet">
+            <summary>Sets the stub of ContainerControl.get_BindingContext()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.BindingContextSetBindingContext">
+            <summary>Sets the stub of ContainerControl.set_BindingContext(BindingContext value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.CanEnableIme">
+            <summary>Sets the stub of ContainerControl.get_CanEnableIme()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CanEnableImeGet">
+            <summary>Sets the stub of ContainerControl.get_CanEnableIme()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.CanRaiseEvents">
+            <summary>Sets the stub of Control.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CanRaiseEventsGet">
+            <summary>Sets the stub of Control.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ContextMenu">
+            <summary>Sets the stub of Control.get_ContextMenu()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ContextMenuGet">
+            <summary>Sets the stub of Control.get_ContextMenu()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ContextMenuSetContextMenu">
+            <summary>Sets the stub of Control.set_ContextMenu(ContextMenu value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ContextMenuStrip">
+            <summary>Sets the stub of Control.get_ContextMenuStrip()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ContextMenuStripGet">
+            <summary>Sets the stub of Control.get_ContextMenuStrip()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ContextMenuStripSetContextMenuStrip">
+            <summary>Sets the stub of Control.set_ContextMenuStrip(ContextMenuStrip value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.CreateAccessibilityInstance">
+            <summary>Sets the Stub of Control.CreateAccessibilityInstance()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CreateAccessibilityInstance01">
+            <summary>Sets the stub of Control.CreateAccessibilityInstance()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.CreateControlsInstance">
+            <summary>Sets the Stub of Form.CreateControlsInstance()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CreateControlsInstance01">
+            <summary>Sets the stub of Form.CreateControlsInstance()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.CreateHandle">
+            <summary>Sets the Stub of Form.CreateHandle()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CreateHandle01">
+            <summary>Sets the stub of Form.CreateHandle()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.CreateParams">
+            <summary>Sets the stub of Form.get_CreateParams()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CreateParamsGet">
+            <summary>Sets the stub of Form.get_CreateParams()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Cursor">
+            <summary>Sets the stub of Control.get_Cursor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CursorGet">
+            <summary>Sets the stub of Control.get_Cursor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.CursorSetCursor">
+            <summary>Sets the stub of Control.set_Cursor(Cursor value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.DefWndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the Stub of Form.DefWndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefWndProcMessageRef">
+            <summary>Sets the stub of Form.DefWndProc(Message&amp; m)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultCursor">
+            <summary>Sets the stub of Control.get_DefaultCursor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultCursorGet">
+            <summary>Sets the stub of Control.get_DefaultCursor()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultImeMode">
+            <summary>Sets the stub of Form.get_DefaultImeMode()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultImeModeGet">
+            <summary>Sets the stub of Form.get_DefaultImeMode()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultMargin">
+            <summary>Sets the stub of Control.get_DefaultMargin()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultMarginGet">
+            <summary>Sets the stub of Control.get_DefaultMargin()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultMaximumSize">
+            <summary>Sets the stub of Control.get_DefaultMaximumSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultMaximumSizeGet">
+            <summary>Sets the stub of Control.get_DefaultMaximumSize()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultMinimumSize">
+            <summary>Sets the stub of Control.get_DefaultMinimumSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultMinimumSizeGet">
+            <summary>Sets the stub of Control.get_DefaultMinimumSize()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultPadding">
+            <summary>Sets the stub of Control.get_DefaultPadding()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultPaddingGet">
+            <summary>Sets the stub of Control.get_DefaultPadding()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DefaultSize">
+            <summary>Sets the stub of Form.get_DefaultSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DefaultSizeGet">
+            <summary>Sets the stub of Form.get_DefaultSize()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.DestroyHandle">
+            <summary>Sets the Stub of Control.DestroyHandle()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DestroyHandle01">
+            <summary>Sets the stub of Control.DestroyHandle()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DisplayRectangle">
+            <summary>Sets the stub of ScrollableControl.get_DisplayRectangle()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DisplayRectangleGet">
+            <summary>Sets the stub of ScrollableControl.get_DisplayRectangle()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.Dispose(System.Boolean)">
+            <summary>Sets the Stub of SplashScreen.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DisposeBoolean">
+            <summary>Sets the stub of SplashScreen.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Dock">
+            <summary>Sets the stub of Control.get_Dock()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DockGet">
+            <summary>Sets the stub of Control.get_Dock()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DockSetDockStyle">
+            <summary>Sets the stub of Control.set_Dock(DockStyle value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.DoubleBuffered">
+            <summary>Sets the stub of Control.get_DoubleBuffered()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DoubleBufferedGet">
+            <summary>Sets the stub of Control.get_DoubleBuffered()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.DoubleBufferedSetBoolean">
+            <summary>Sets the stub of Control.set_DoubleBuffered(Boolean value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Focused">
+            <summary>Sets the stub of Control.get_Focused()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.FocusedGet">
+            <summary>Sets the stub of Control.get_Focused()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Font">
+            <summary>Sets the stub of Control.get_Font()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.FontGet">
+            <summary>Sets the stub of Control.get_Font()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.FontSetFont">
+            <summary>Sets the stub of Control.set_Font(Font value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ForeColor">
+            <summary>Sets the stub of Control.get_ForeColor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ForeColorGet">
+            <summary>Sets the stub of Control.get_ForeColor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ForeColorSetColor">
+            <summary>Sets the stub of Control.set_ForeColor(Color value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.GetAccessibilityObjectById(System.Int32)">
+            <summary>Sets the Stub of Control.GetAccessibilityObjectById(Int32 objectId)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.GetAccessibilityObjectByIdInt32">
+            <summary>Sets the stub of Control.GetAccessibilityObjectById(Int32 objectId)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.GetPreferredSize(System.Drawing.Size)">
+            <summary>Sets the Stub of Control.GetPreferredSize(Size proposedSize)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.GetPreferredSizeSize">
+            <summary>Sets the stub of Control.GetPreferredSize(Size proposedSize)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.GetScaledBounds(System.Drawing.Rectangle,System.Drawing.SizeF,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the Stub of Form.GetScaledBounds(Rectangle bounds, SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.GetScaledBoundsRectangleSizeFBoundsSpecified">
+            <summary>Sets the stub of Form.GetScaledBounds(Rectangle bounds, SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.GetService(System.Type)">
+            <summary>Sets the Stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.GetServiceType">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ImeModeBase">
+            <summary>Sets the stub of Control.get_ImeModeBase()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ImeModeBaseGet">
+            <summary>Sets the stub of Control.get_ImeModeBase()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ImeModeBaseSetImeMode">
+            <summary>Sets the stub of Control.set_ImeModeBase(ImeMode value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.InitLayout">
+            <summary>Sets the Stub of Control.InitLayout()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.InitLayout01">
+            <summary>Sets the stub of Control.InitLayout()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.InitializeStub">
+            <summary>Initializes a new instance of type StubSplashScreen</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.IsInputChar(System.Char)">
+            <summary>Sets the Stub of Control.IsInputChar(Char charCode)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.IsInputCharChar">
+            <summary>Sets the stub of Control.IsInputChar(Char charCode)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.IsInputKey(System.Windows.Forms.Keys)">
+            <summary>Sets the Stub of Control.IsInputKey(Keys keyData)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.IsInputKeyKeys">
+            <summary>Sets the stub of Control.IsInputKey(Keys keyData)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.LayoutEngine">
+            <summary>Sets the stub of Control.get_LayoutEngine()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.LayoutEngineGet">
+            <summary>Sets the stub of Control.get_LayoutEngine()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.MaximumSize">
+            <summary>Sets the stub of Form.get_MaximumSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.MaximumSizeGet">
+            <summary>Sets the stub of Form.get_MaximumSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.MaximumSizeSetSize">
+            <summary>Sets the stub of Form.set_MaximumSize(Size value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.MinimumSize">
+            <summary>Sets the stub of Form.get_MinimumSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.MinimumSizeGet">
+            <summary>Sets the stub of Form.get_MinimumSize()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.MinimumSizeSetSize">
+            <summary>Sets the stub of Form.set_MinimumSize(Size value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.NotifyInvalidate(System.Drawing.Rectangle)">
+            <summary>Sets the Stub of Control.NotifyInvalidate(Rectangle invalidatedArea)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.NotifyInvalidateRectangle">
+            <summary>Sets the stub of Control.NotifyInvalidate(Rectangle invalidatedArea)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnActivated(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnActivated(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnActivatedEventArgs">
+            <summary>Sets the stub of Form.OnActivated(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnAutoSizeChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnAutoSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnAutoSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnAutoSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnAutoValidateChanged(System.EventArgs)">
+            <summary>Sets the Stub of ContainerControl.OnAutoValidateChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnAutoValidateChangedEventArgs">
+            <summary>Sets the stub of ContainerControl.OnAutoValidateChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnBackColorChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnBackColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnBackgroundImageChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnBackgroundImageChangedEventArgs">
+            <summary>Sets the stub of Form.OnBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnBackgroundImageLayoutChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnBackgroundImageLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnBackgroundImageLayoutChangedEventArgs">
+            <summary>Sets the stub of Form.OnBackgroundImageLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnBindingContextChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnBindingContextChangedEventArgs">
+            <summary>Sets the stub of Control.OnBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnCausesValidationChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnCausesValidationChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnCausesValidationChangedEventArgs">
+            <summary>Sets the stub of Control.OnCausesValidationChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnChangeUICues(System.Windows.Forms.UICuesEventArgs)">
+            <summary>Sets the Stub of Control.OnChangeUICues(UICuesEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnChangeUICuesUICuesEventArgs">
+            <summary>Sets the stub of Control.OnChangeUICues(UICuesEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnClick(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnClick(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnClickEventArgs">
+            <summary>Sets the stub of Control.OnClick(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnClientSizeChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnClientSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnClientSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnClientSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnClosed(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnClosed(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnClosedEventArgs">
+            <summary>Sets the stub of Form.OnClosed(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnClosing(System.ComponentModel.CancelEventArgs)">
+            <summary>Sets the Stub of Form.OnClosing(CancelEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnClosingCancelEventArgs">
+            <summary>Sets the stub of Form.OnClosing(CancelEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnContextMenuChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnContextMenuChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnContextMenuChangedEventArgs">
+            <summary>Sets the stub of Control.OnContextMenuChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnContextMenuStripChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnContextMenuStripChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnContextMenuStripChangedEventArgs">
+            <summary>Sets the stub of Control.OnContextMenuStripChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnControlAdded(System.Windows.Forms.ControlEventArgs)">
+            <summary>Sets the Stub of Control.OnControlAdded(ControlEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnControlAddedControlEventArgs">
+            <summary>Sets the stub of Control.OnControlAdded(ControlEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnControlRemoved(System.Windows.Forms.ControlEventArgs)">
+            <summary>Sets the Stub of Control.OnControlRemoved(ControlEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnControlRemovedControlEventArgs">
+            <summary>Sets the stub of Control.OnControlRemoved(ControlEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnCreateControl">
+            <summary>Sets the Stub of Form.OnCreateControl()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnCreateControl01">
+            <summary>Sets the stub of Form.OnCreateControl()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnCursorChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnCursorChangedEventArgs">
+            <summary>Sets the stub of Control.OnCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDeactivate(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnDeactivate(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDeactivateEventArgs">
+            <summary>Sets the stub of Form.OnDeactivate(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDockChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnDockChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDockChangedEventArgs">
+            <summary>Sets the stub of Control.OnDockChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDoubleClick(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnDoubleClick(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDoubleClickEventArgs">
+            <summary>Sets the stub of Control.OnDoubleClick(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDpiChanged(System.Windows.Forms.DpiChangedEventArgs)">
+            <summary>Sets the Stub of Form.OnDpiChanged(DpiChangedEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDpiChangedAfterParent(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnDpiChangedAfterParent(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDpiChangedAfterParentEventArgs">
+            <summary>Sets the stub of Control.OnDpiChangedAfterParent(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDpiChangedBeforeParent(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnDpiChangedBeforeParent(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDpiChangedBeforeParentEventArgs">
+            <summary>Sets the stub of Control.OnDpiChangedBeforeParent(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDpiChangedDpiChangedEventArgs">
+            <summary>Sets the stub of Form.OnDpiChanged(DpiChangedEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDragDrop(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the Stub of Control.OnDragDrop(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDragDropDragEventArgs">
+            <summary>Sets the stub of Control.OnDragDrop(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDragEnter(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the Stub of Control.OnDragEnter(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDragEnterDragEventArgs">
+            <summary>Sets the stub of Control.OnDragEnter(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDragLeave(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDragLeaveEventArgs">
+            <summary>Sets the stub of Control.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnDragOver(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the Stub of Control.OnDragOver(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnDragOverDragEventArgs">
+            <summary>Sets the stub of Control.OnDragOver(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnEnabledChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnEnabledChangedEventArgs">
+            <summary>Sets the stub of Form.OnEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnEnter(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnEnter(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnEnterEventArgs">
+            <summary>Sets the stub of Form.OnEnter(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnFontChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnFontChangedEventArgs">
+            <summary>Sets the stub of Form.OnFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnForeColorChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnForeColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnFormClosed(System.Windows.Forms.FormClosedEventArgs)">
+            <summary>Sets the Stub of Form.OnFormClosed(FormClosedEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnFormClosedFormClosedEventArgs">
+            <summary>Sets the stub of Form.OnFormClosed(FormClosedEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnFormClosing(System.Windows.Forms.FormClosingEventArgs)">
+            <summary>Sets the Stub of Form.OnFormClosing(FormClosingEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnFormClosingFormClosingEventArgs">
+            <summary>Sets the stub of Form.OnFormClosing(FormClosingEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnGetDpiScaledSize(System.Int32,System.Int32,System.Drawing.Size@)">
+            <summary>Sets the Stub of Form.OnGetDpiScaledSize(Int32 deviceDpiOld, Int32 deviceDpiNew, Size&amp; desiredSize)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnGetDpiScaledSizeInt32Int32SizeRef">
+            <summary>Sets the stub of Form.OnGetDpiScaledSize(Int32 deviceDpiOld, Int32 deviceDpiNew, Size&amp; desiredSize)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)">
+            <summary>Sets the Stub of Control.OnGiveFeedback(GiveFeedbackEventArgs gfbevent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnGiveFeedbackGiveFeedbackEventArgs">
+            <summary>Sets the stub of Control.OnGiveFeedback(GiveFeedbackEventArgs gfbevent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnGotFocus(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnGotFocusEventArgs">
+            <summary>Sets the stub of Control.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnHandleCreated(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnHandleCreatedEventArgs">
+            <summary>Sets the stub of Form.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnHandleDestroyed(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnHandleDestroyed(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnHandleDestroyedEventArgs">
+            <summary>Sets the stub of Form.OnHandleDestroyed(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnHelpButtonClicked(System.ComponentModel.CancelEventArgs)">
+            <summary>Sets the Stub of Form.OnHelpButtonClicked(CancelEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnHelpButtonClickedCancelEventArgs">
+            <summary>Sets the stub of Form.OnHelpButtonClicked(CancelEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnHelpRequested(System.Windows.Forms.HelpEventArgs)">
+            <summary>Sets the Stub of Control.OnHelpRequested(HelpEventArgs hevent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnHelpRequestedHelpEventArgs">
+            <summary>Sets the stub of Control.OnHelpRequested(HelpEventArgs hevent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnImeModeChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnImeModeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnImeModeChangedEventArgs">
+            <summary>Sets the stub of Control.OnImeModeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnInputLanguageChanged(System.Windows.Forms.InputLanguageChangedEventArgs)">
+            <summary>Sets the Stub of Form.OnInputLanguageChanged(InputLanguageChangedEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnInputLanguageChangedInputLanguageChangedEventArgs">
+            <summary>Sets the stub of Form.OnInputLanguageChanged(InputLanguageChangedEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnInputLanguageChanging(System.Windows.Forms.InputLanguageChangingEventArgs)">
+            <summary>Sets the Stub of Form.OnInputLanguageChanging(InputLanguageChangingEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnInputLanguageChangingInputLanguageChangingEventArgs">
+            <summary>Sets the stub of Form.OnInputLanguageChanging(InputLanguageChangingEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnInvalidated(System.Windows.Forms.InvalidateEventArgs)">
+            <summary>Sets the Stub of Control.OnInvalidated(InvalidateEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnInvalidatedInvalidateEventArgs">
+            <summary>Sets the stub of Control.OnInvalidated(InvalidateEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnKeyDown(System.Windows.Forms.KeyEventArgs)">
+            <summary>Sets the Stub of Control.OnKeyDown(KeyEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnKeyDownKeyEventArgs">
+            <summary>Sets the stub of Control.OnKeyDown(KeyEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnKeyPress(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>Sets the Stub of Control.OnKeyPress(KeyPressEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnKeyPressKeyPressEventArgs">
+            <summary>Sets the stub of Control.OnKeyPress(KeyPressEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnKeyUp(System.Windows.Forms.KeyEventArgs)">
+            <summary>Sets the Stub of Control.OnKeyUp(KeyEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnKeyUpKeyEventArgs">
+            <summary>Sets the stub of Control.OnKeyUp(KeyEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnLayout(System.Windows.Forms.LayoutEventArgs)">
+            <summary>Sets the Stub of Form.OnLayout(LayoutEventArgs levent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnLayoutLayoutEventArgs">
+            <summary>Sets the stub of Form.OnLayout(LayoutEventArgs levent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnLeave(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnLeaveEventArgs">
+            <summary>Sets the stub of Control.OnLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnLoad(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnLoad(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnLoadEventArgs">
+            <summary>Sets the stub of Form.OnLoad(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnLocationChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnLocationChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnLocationChangedEventArgs">
+            <summary>Sets the stub of Control.OnLocationChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnLostFocus(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnLostFocus(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnLostFocusEventArgs">
+            <summary>Sets the stub of Control.OnLostFocus(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMarginChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnMarginChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMarginChangedEventArgs">
+            <summary>Sets the stub of Control.OnMarginChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMaximizedBoundsChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnMaximizedBoundsChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMaximizedBoundsChangedEventArgs">
+            <summary>Sets the stub of Form.OnMaximizedBoundsChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMaximumSizeChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnMaximumSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMaximumSizeChangedEventArgs">
+            <summary>Sets the stub of Form.OnMaximumSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMdiChildActivate(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnMdiChildActivate(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMdiChildActivateEventArgs">
+            <summary>Sets the stub of Form.OnMdiChildActivate(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMenuComplete(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnMenuComplete(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMenuCompleteEventArgs">
+            <summary>Sets the stub of Form.OnMenuComplete(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMenuStart(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnMenuStart(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMenuStartEventArgs">
+            <summary>Sets the stub of Form.OnMenuStart(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMinimumSizeChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnMinimumSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMinimumSizeChangedEventArgs">
+            <summary>Sets the stub of Form.OnMinimumSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseCaptureChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnMouseCaptureChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseCaptureChangedEventArgs">
+            <summary>Sets the stub of Control.OnMouseCaptureChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the Stub of Control.OnMouseClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseClickMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseDoubleClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the Stub of Control.OnMouseDoubleClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseDoubleClickMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseDoubleClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the Stub of Control.OnMouseDown(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseDownMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseDown(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseEnter(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnMouseEnter(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseEnterEventArgs">
+            <summary>Sets the stub of Control.OnMouseEnter(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseHover(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnMouseHover(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseHoverEventArgs">
+            <summary>Sets the stub of Control.OnMouseHover(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseLeave(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnMouseLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseLeaveEventArgs">
+            <summary>Sets the stub of Control.OnMouseLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the Stub of Control.OnMouseMove(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseMoveMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseMove(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the Stub of Control.OnMouseUp(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseUpMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseUp(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMouseWheel(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the Stub of ScrollableControl.OnMouseWheel(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMouseWheelMouseEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnMouseWheel(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnMove(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnMove(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnMoveEventArgs">
+            <summary>Sets the stub of Control.OnMove(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnNotifyMessage(System.Windows.Forms.Message)">
+            <summary>Sets the Stub of Control.OnNotifyMessage(Message m)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnNotifyMessageMessage">
+            <summary>Sets the stub of Control.OnNotifyMessage(Message m)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnPaddingChanged(System.EventArgs)">
+            <summary>Sets the Stub of ScrollableControl.OnPaddingChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnPaddingChangedEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnPaddingChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the Stub of Form.OnPaint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnPaintBackground(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the Stub of ScrollableControl.OnPaintBackground(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnPaintBackgroundPaintEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnPaintBackground(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnPaintPaintEventArgs">
+            <summary>Sets the stub of Form.OnPaint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentBackColorChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentBackColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentBackgroundImageChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentBackgroundImageChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentBindingContextChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentBindingContextChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentChanged(System.EventArgs)">
+            <summary>Sets the Stub of ContainerControl.OnParentChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentChangedEventArgs">
+            <summary>Sets the stub of ContainerControl.OnParentChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentCursorChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentCursorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentEnabledChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentEnabledChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentFontChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentFontChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentForeColorChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentForeColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentRightToLeftChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentRightToLeftChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnParentVisibleChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnParentVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnParentVisibleChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnPreviewKeyDown(System.Windows.Forms.PreviewKeyDownEventArgs)">
+            <summary>Sets the Stub of Control.OnPreviewKeyDown(PreviewKeyDownEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnPreviewKeyDownPreviewKeyDownEventArgs">
+            <summary>Sets the stub of Control.OnPreviewKeyDown(PreviewKeyDownEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnPrint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the Stub of Control.OnPrint(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnPrintPaintEventArgs">
+            <summary>Sets the stub of Control.OnPrint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)">
+            <summary>Sets the Stub of Control.OnQueryContinueDrag(QueryContinueDragEventArgs qcdevent)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnQueryContinueDragQueryContinueDragEventArgs">
+            <summary>Sets the stub of Control.OnQueryContinueDrag(QueryContinueDragEventArgs qcdevent)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnRegionChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnRegionChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnRegionChangedEventArgs">
+            <summary>Sets the stub of Control.OnRegionChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnResize(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnResize(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnResizeBegin(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnResizeBegin(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnResizeBeginEventArgs">
+            <summary>Sets the stub of Form.OnResizeBegin(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnResizeEnd(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnResizeEnd(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnResizeEndEventArgs">
+            <summary>Sets the stub of Form.OnResizeEnd(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnResizeEventArgs">
+            <summary>Sets the stub of Form.OnResize(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnRightToLeftChanged(System.EventArgs)">
+            <summary>Sets the Stub of ScrollableControl.OnRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnRightToLeftChangedEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnRightToLeftLayoutChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnRightToLeftLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnRightToLeftLayoutChangedEventArgs">
+            <summary>Sets the stub of Form.OnRightToLeftLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnScroll(System.Windows.Forms.ScrollEventArgs)">
+            <summary>Sets the Stub of ScrollableControl.OnScroll(ScrollEventArgs se)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnScrollScrollEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnScroll(ScrollEventArgs se)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnShown(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnShown(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnShownEventArgs">
+            <summary>Sets the stub of Form.OnShown(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnSizeChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnStyleChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnStyleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnStyleChangedEventArgs">
+            <summary>Sets the stub of Form.OnStyleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnSystemColorsChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnSystemColorsChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnSystemColorsChangedEventArgs">
+            <summary>Sets the stub of Control.OnSystemColorsChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnTabIndexChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnTabIndexChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnTabIndexChangedEventArgs">
+            <summary>Sets the stub of Control.OnTabIndexChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnTabStopChanged(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnTabStopChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnTabStopChangedEventArgs">
+            <summary>Sets the stub of Control.OnTabStopChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnTextChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnTextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnTextChangedEventArgs">
+            <summary>Sets the stub of Form.OnTextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnValidated(System.EventArgs)">
+            <summary>Sets the Stub of Control.OnValidated(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnValidatedEventArgs">
+            <summary>Sets the stub of Control.OnValidated(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnValidating(System.ComponentModel.CancelEventArgs)">
+            <summary>Sets the Stub of Control.OnValidating(CancelEventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnValidatingCancelEventArgs">
+            <summary>Sets the stub of Control.OnValidating(CancelEventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.OnVisibleChanged(System.EventArgs)">
+            <summary>Sets the Stub of Form.OnVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.OnVisibleChangedEventArgs">
+            <summary>Sets the stub of Form.OnVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.PreProcessMessage(System.Windows.Forms.Message@)">
+            <summary>Sets the Stub of Control.PreProcessMessage(Message&amp; msg)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.PreProcessMessageMessageRef">
+            <summary>Sets the stub of Control.PreProcessMessage(Message&amp; msg)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessCmdKey(System.Windows.Forms.Message@,System.Windows.Forms.Keys)">
+            <summary>Sets the Stub of Form.ProcessCmdKey(Message&amp; msg, Keys keyData)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessCmdKeyMessageRefKeys">
+            <summary>Sets the stub of Form.ProcessCmdKey(Message&amp; msg, Keys keyData)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessDialogChar(System.Char)">
+            <summary>Sets the Stub of Form.ProcessDialogChar(Char charCode)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessDialogCharChar">
+            <summary>Sets the stub of Form.ProcessDialogChar(Char charCode)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessDialogKey(System.Windows.Forms.Keys)">
+            <summary>Sets the Stub of Form.ProcessDialogKey(Keys keyData)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessDialogKeyKeys">
+            <summary>Sets the stub of Form.ProcessDialogKey(Keys keyData)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessKeyEventArgs(System.Windows.Forms.Message@)">
+            <summary>Sets the Stub of Control.ProcessKeyEventArgs(Message&amp; m)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessKeyEventArgsMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyEventArgs(Message&amp; m)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessKeyMessage(System.Windows.Forms.Message@)">
+            <summary>Sets the Stub of Control.ProcessKeyMessage(Message&amp; m)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessKeyMessageMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyMessage(Message&amp; m)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessKeyPreview(System.Windows.Forms.Message@)">
+            <summary>Sets the Stub of Form.ProcessKeyPreview(Message&amp; m)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessKeyPreviewMessageRef">
+            <summary>Sets the stub of Form.ProcessKeyPreview(Message&amp; m)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessMnemonic(System.Char)">
+            <summary>Sets the Stub of Form.ProcessMnemonic(Char charCode)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessMnemonicChar">
+            <summary>Sets the stub of Form.ProcessMnemonic(Char charCode)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ProcessTabKey(System.Boolean)">
+            <summary>Sets the Stub of Form.ProcessTabKey(Boolean forward)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ProcessTabKeyBoolean">
+            <summary>Sets the stub of Form.ProcessTabKey(Boolean forward)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.Refresh">
+            <summary>Sets the Stub of Control.Refresh()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.Refresh01">
+            <summary>Sets the stub of Control.Refresh()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.RescaleConstantsForDpi(System.Int32,System.Int32)">
+            <summary>Sets the Stub of Control.RescaleConstantsForDpi(Int32 deviceDpiOld, Int32 deviceDpiNew)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.RescaleConstantsForDpiInt32Int32">
+            <summary>Sets the stub of Control.RescaleConstantsForDpi(Int32 deviceDpiOld, Int32 deviceDpiNew)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ResetBackColor">
+            <summary>Sets the Stub of Control.ResetBackColor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ResetBackColor01">
+            <summary>Sets the stub of Control.ResetBackColor()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ResetCursor">
+            <summary>Sets the Stub of Control.ResetCursor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ResetCursor01">
+            <summary>Sets the stub of Control.ResetCursor()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ResetFont">
+            <summary>Sets the Stub of Control.ResetFont()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ResetFont01">
+            <summary>Sets the stub of Control.ResetFont()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ResetForeColor">
+            <summary>Sets the Stub of Control.ResetForeColor()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ResetForeColor01">
+            <summary>Sets the stub of Control.ResetForeColor()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ResetRightToLeft">
+            <summary>Sets the Stub of Control.ResetRightToLeft()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ResetRightToLeft01">
+            <summary>Sets the stub of Control.ResetRightToLeft()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ResetText">
+            <summary>Sets the Stub of Control.ResetText()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ResetText01">
+            <summary>Sets the stub of Control.ResetText()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.RightToLeft">
+            <summary>Sets the stub of Control.get_RightToLeft()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.RightToLeftGet">
+            <summary>Sets the stub of Control.get_RightToLeft()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.RightToLeftLayout">
+            <summary>Sets the stub of Form.get_RightToLeftLayout()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.RightToLeftLayoutGet">
+            <summary>Sets the stub of Form.get_RightToLeftLayout()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.RightToLeftLayoutSetBoolean">
+            <summary>Sets the stub of Form.set_RightToLeftLayout(Boolean value)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.RightToLeftSetRightToLeft">
+            <summary>Sets the stub of Control.set_RightToLeft(RightToLeft value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ScaleChildren">
+            <summary>Sets the stub of Control.get_ScaleChildren()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ScaleChildrenGet">
+            <summary>Sets the stub of Control.get_ScaleChildren()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ScaleControl(System.Drawing.SizeF,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the Stub of Form.ScaleControl(SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ScaleControlSizeFBoundsSpecified">
+            <summary>Sets the stub of Form.ScaleControl(SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ScaleCore(System.Single,System.Single)">
+            <summary>Sets the Stub of Form.ScaleCore(Single x, Single y)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ScaleCoreSingleSingle">
+            <summary>Sets the stub of Form.ScaleCore(Single x, Single y)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ScrollToControl(System.Windows.Forms.Control)">
+            <summary>Sets the Stub of ScrollableControl.ScrollToControl(Control activeControl)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ScrollToControlControl">
+            <summary>Sets the stub of ScrollableControl.ScrollToControl(Control activeControl)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.Select(System.Boolean,System.Boolean)">
+            <summary>Sets the Stub of Form.Select(Boolean directed, Boolean forward)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SelectBooleanBoolean">
+            <summary>Sets the stub of Form.Select(Boolean directed, Boolean forward)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.SetBoundsCore(System.Int32,System.Int32,System.Int32,System.Int32,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the Stub of Form.SetBoundsCore(Int32 x, Int32 y, Int32 width, Int32 height, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SetBoundsCoreInt32Int32Int32Int32BoundsSpecified">
+            <summary>Sets the stub of Form.SetBoundsCore(Int32 x, Int32 y, Int32 width, Int32 height, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.SetClientSizeCore(System.Int32,System.Int32)">
+            <summary>Sets the Stub of Form.SetClientSizeCore(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SetClientSizeCoreInt32Int32">
+            <summary>Sets the stub of Form.SetClientSizeCore(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.SetVisibleCore(System.Boolean)">
+            <summary>Sets the Stub of Form.SetVisibleCore(Boolean value)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SetVisibleCoreBoolean">
+            <summary>Sets the stub of Form.SetVisibleCore(Boolean value)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ShowFocusCues">
+            <summary>Sets the stub of Control.get_ShowFocusCues()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ShowFocusCuesGet">
+            <summary>Sets the stub of Control.get_ShowFocusCues()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ShowKeyboardCues">
+            <summary>Sets the stub of Control.get_ShowKeyboardCues()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ShowKeyboardCuesGet">
+            <summary>Sets the stub of Control.get_ShowKeyboardCues()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.ShowWithoutActivation">
+            <summary>Sets the stub of Form.get_ShowWithoutActivation()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ShowWithoutActivationGet">
+            <summary>Sets the stub of Form.get_ShowWithoutActivation()</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Site">
+            <summary>Sets the stub of Control.get_Site()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SiteGet">
+            <summary>Sets the stub of Control.get_Site()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SiteSetISite">
+            <summary>Sets the stub of Control.set_Site(ISite value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.SizeFromClientSize(System.Drawing.Size)">
+            <summary>Sets the Stub of Control.SizeFromClientSize(Size clientSize)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.SizeFromClientSizeSize">
+            <summary>Sets the stub of Control.SizeFromClientSize(Size clientSize)</summary>
+        </member>
+        <member name="P:SplashScreen.Fakes.StubSplashScreen.Text">
+            <summary>Sets the stub of Form.get_Text()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.TextGet">
+            <summary>Sets the stub of Form.get_Text()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.TextSetString">
+            <summary>Sets the stub of Form.set_Text(String value)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ToString">
+            <summary>Sets the Stub of Form.ToString()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ToString01">
+            <summary>Sets the stub of Form.ToString()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.UpdateDefaultButton">
+            <summary>Sets the Stub of Form.UpdateDefaultButton()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.UpdateDefaultButton01">
+            <summary>Sets the stub of Form.UpdateDefaultButton()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ValidateChildren">
+            <summary>Sets the Stub of Form.ValidateChildren()</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.ValidateChildren(System.Windows.Forms.ValidationConstraints)">
+            <summary>Sets the Stub of Form.ValidateChildren(ValidationConstraints validationConstraints)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ValidateChildren01">
+            <summary>Sets the stub of Form.ValidateChildren()</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.ValidateChildrenValidationConstraints">
+            <summary>Sets the stub of Form.ValidateChildren(ValidationConstraints validationConstraints)</summary>
+        </member>
+        <member name="M:SplashScreen.Fakes.StubSplashScreen.WndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the Stub of Form.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:SplashScreen.Fakes.StubSplashScreen.WndProcMessageRef">
+            <summary>Sets the stub of Form.WndProc(Message&amp; m)</summary>
+        </member>
+    </members>
+</doc>

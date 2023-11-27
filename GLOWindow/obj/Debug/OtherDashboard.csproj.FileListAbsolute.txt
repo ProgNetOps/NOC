@@ -1,0 +1,30 @@
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\GLOWindow.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\GLOWindow.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\GLOWindow.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\Seyi.MainUI.dll
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\Seyi.MainUI.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.Form1.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\GLOWindow.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.CopyComplete
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\GLOWindow.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\GLOWindow.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\GLOWindow.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\GLOWindow.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\GLOWindow.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\FontAwesome.Sharp.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\Seyi.MainUI.dll
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\bin\Debug\Seyi.MainUI.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.AssemblyReference.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.Form1.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\GLOWindow.Properties.Resources.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.GenerateResource.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.CoreCompileInputs.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\OtherDashboard.csproj.CopyComplete
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\GLOWindow.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\NOC\GLOWindow\obj\Debug\GLOWindow.pdb
